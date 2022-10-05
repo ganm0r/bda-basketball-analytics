@@ -3,7 +3,7 @@
 🏀 Stack: Apache Hadoop, Apache Spark, Python
 🏀 Dataset: [Basketball Reference](https://www.basketball-reference.com/leagues/NBA_2021_totals.html)
 
-![three-pointers](results/3-point_trend.png)
+![three-pointers](results/3_point_trend.png)
 
 ![model-prediction](results/model_prediction.png)
 
